@@ -1,0 +1,16 @@
+ATINDRA NATH MUKHERJEE
+B.Tech Electronics and Communication Engineering | 2026 Graduate
+
+SKILLS
+Java, Python, JavaScript, React.js, SQL, REST APIs, AWS, Git, GitHub, Node.js, FastAPI, MongoDB, HTTP and networking fundamentals.
+
+PROJECTS
+Healthcare Monitoring System — Built an ESP32-based monitoring prototype with MAX30105, temperature sensing, FastAPI backend and a dashboard. Implemented REST APIs for health records and explored MQTT-based communication.
+
+Todo Application — Built a React application with CRUD operations, filters, local storage and deployment using GitHub and Vercel/Netlify.
+
+INTERNSHIP
+CDAC internship with exposure to software development and technical problem solving.
+
+SUMMARY
+Entry-level software/cloud candidate with hands-on project experience in Java, Python, React, APIs, SQL and AWS fundamentals. Interested in software engineering, cloud infrastructure and enterprise IT roles.

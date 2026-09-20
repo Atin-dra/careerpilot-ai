@@ -1,0 +1,23 @@
+Junior Cloud Software Engineer — Bengaluru
+
+We are looking for an entry-level engineer to support cloud applications and internal platforms.
+
+Responsibilities:
+- Build and maintain backend services and REST APIs.
+- Develop small frontend features using React or JavaScript.
+- Work with SQL databases and troubleshoot production issues.
+- Deploy and monitor applications on AWS.
+- Collaborate with engineers using Git and agile development practices.
+- Understand HTTP, networking fundamentals and basic cloud security.
+
+Required:
+- Java or Python programming.
+- REST API development.
+- SQL.
+- JavaScript/React.
+- AWS fundamentals.
+- Git/GitHub.
+- Problem-solving and debugging.
+
+Nice to have:
+- Node.js, MongoDB, Docker, CI/CD.
