@@ -143,3 +143,4 @@ The demo produces:
 ## Responsible-use note
 
 The system is designed to assist applicants, not to make hiring decisions. It should not be used to infer protected characteristics or automatically reject candidates.
+Link: https://careerpilot-ai-jrrj25fn94ufizfnrypcqs.streamlit.app/
